@@ -1,0 +1,7 @@
+{
+    "name": "College FaceID Attendance",
+    "description": "A smart attendance system for Colleges using React for multimodal face recognition.",
+    "requestFramePermissions": [
+        "camera"
+    ]
+}
