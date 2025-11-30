@@ -1,0 +1,7 @@
+id,userId,userName,role,timestamp,status,confidence
+4b10cf31-4c97-4173-a934-3b733d46591e,69d78f77-77ec-42ab-a45b-baf076e6ab33,"Deepak singh",Student,2025-11-30T03:30:00.000Z,Present,1
+f67534e9-3743-41bc-9f52-1a6bc95bab63,e5dfb24c-9899-4e8e-a7f5-fd5cce36f614,"Divanshu sharma",Student,2025-11-30T03:30:00.000Z,Late,1
+f44ed831-5a09-4790-8b7c-06122fa785b5,05ee5009-b867-4ea2-836d-2684810502aa,"Mitali Rath",Student,2025-11-30T03:30:00.000Z,Present,1
+363ad34d-1bb4-4430-be0f-a53fcbf69388,e5dfb24c-9899-4e8e-a7f5-fd5cce36f614,"Divanshu sharma",Student,2025-11-29T03:30:00.000Z,Present,1
+6d5b46d1-495c-40d4-8fd1-191169a1859f,6220ee45-3e7b-45cb-a9db-6ea0a81d0222,"Gaurav sharma",Student,2025-11-29T03:30:00.000Z,Present,1
+4c6c058a-3568-4a53-b638-309c84714c3a,69d78f77-77ec-42ab-a45b-baf076e6ab33,"Deepak singh",Student,2025-11-29T03:30:00.000Z,Present,1
